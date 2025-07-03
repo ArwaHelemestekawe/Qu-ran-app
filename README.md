@@ -46,9 +46,4 @@ An interactive desktop application built with Windows Forms (C# and Guna UI), co
 
 ---
 
-## 🎬 Demo
-
-📽️ *2-minute video demo coming soon — stay tuned!*
-
----
 
