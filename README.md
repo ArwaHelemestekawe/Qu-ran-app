@@ -1,3 +1,15 @@
+##  Demo
+
+<video width="100%" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+
+
 # 📖 Qur’an App with Tafsir & Audio Support
 
 An interactive desktop application built with Windows Forms (C# and Guna UI), connected to a MySQL database. This app allows users to explore Surahs and Ayat, view Tafsir, and listen to recitations — all within an intuitive and responsive interface.
