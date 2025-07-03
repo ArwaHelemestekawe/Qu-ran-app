@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8NodXkOr5o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arwah\\OneDrive\\سطح المكتب\\quarn\\quaran_app\\quaran_app\\quaran_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arwah\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\arwah\\.nuget\\packages\\microsoft.web.webview2\\1.0.3240.44\\microsoft.web.webview2.1.0.3240.44.nupkg.sha512",
+    "C:\\Users\\arwah\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\arwah\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
