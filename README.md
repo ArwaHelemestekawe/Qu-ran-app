@@ -1,3 +1,8 @@
+## 🎬 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/ir58Zrvg3ek/maxresdefault.jpg)](https://www.youtube.com/watch?v=ir58Zrvg3ek)
+
+Click the image above to watch a 2-minute walkthrough of the app, including login, Surah search, audio playback, Tafsir view, and similar Ayah search.
 
 
 
